@@ -6,7 +6,7 @@ Good code snippets from various languages
 
 file | Description
 --- | ---
-[EmailValidator.vb](../blob/master/VB.NET/EmailValidator.vb) | Validate email addresses
-[Shortcut.vb](../blob/master/VB.NET/Shortcut.vbb) | Create Windows Shortcuts.
-[ScaleImage.vb](../blob/master/VB.NET/ScaleImage.vb) | Scale images without distorting.
-[FileSize.vb](../blob/master/VB.NET/FileSize.vb) | Format file size (100KB, 1GB, 4TB)
+[EmailValidator.vb](../master/VB.NET/EmailValidator.vb) | Validate email addresses
+[Shortcut.vb](../master/VB.NET/Shortcut.vbb) | Create Windows Shortcuts.
+[ScaleImage.vb](../master/VB.NET/ScaleImage.vb) | Scale images without distorting.
+[FileSize.vb](../master/VB.NET/FileSize.vb) | Format file size (100KB, 1GB, 4TB)
