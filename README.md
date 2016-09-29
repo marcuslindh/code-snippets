@@ -16,3 +16,4 @@ file | Description
 file | Description
 --- | ---
 [getParameters.js](../master/Javascript/getParameters.js) | Get QueryString from URL
+[Log Function Calls.js](../master/Javascript/Log Function Calls.js) | Log Function calls in object
